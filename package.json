@@ -1,0 +1,18 @@
+{
+  "name": "inet_tech_warehouse",
+  "version": "1.0.0",
+  "description": "Warehouse demo service for \"internet technologies\" course RC6",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoulPhazed/RC6_inet_tech_warehouse.git"
+  },
+  "author": "Aleksandr Kosenkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoulPhazed/RC6_inet_tech_warehouse/issues"
+  },
+  "homepage": "https://github.com/SoulPhazed/RC6_inet_tech_warehouse#readme"
+}
